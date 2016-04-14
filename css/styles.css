@@ -3247,6 +3247,15 @@ a:visited {
   background-image: url("../assets/img/j-hall-cover.png");
 }
 
+#nicholas-maxwell-profile {
+ background-image: url("../assets/img/nicholas-maxwell-profile.jpg");
+}
+
+#nicholas-maxwell-cover {
+background-image: url("../assets/img/nicholas-maxwell-cover.jpg");
+}
+
+
 #james-rogers-cover {
   background-image: url("../assets/img/james-rogers-cover.jpg");
 }
